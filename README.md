@@ -29,7 +29,9 @@
 
 ## About Me
 **Nguyen Hoai Nam**/2005
+
 Background: **Mathematics and Statistics**
+
 Education: **Ton Duc Thang University**
 
 
