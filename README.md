@@ -7,13 +7,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" alt="Rainbow Line" />
 </p>
-</h1>
 
-</h1>
-
-</h1>
-
-<p align="left">
+<!-- Contact badges centered -->
+<p align="center">
   <a href="mailto:namngyh@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -27,6 +23,7 @@
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
+
 
 ---
 
