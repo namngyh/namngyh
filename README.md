@@ -1,6 +1,6 @@
 <!-- Title with Typing Effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0AA2FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ho%C3%A0i+Nam;Data+Analyst+%26+Data+Scientist;Turning+Data+into+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0AA2FF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Nam;Data+Analyst+%7C+Data+Scientist;SQL+%7C+Python+%7C+Power+BI+%7C+Looker+Studio" alt="Typing SVG" />
 </h1>
 
 ## About Me
