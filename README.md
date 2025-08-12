@@ -28,7 +28,7 @@
 ---
 
 ## About Me
-**Nguyen Hoai Nam**/2005
+Language: **Vietnamese** (Native), **English** (Conversational)
 
 Background: **Mathematics and Statistics**
 
