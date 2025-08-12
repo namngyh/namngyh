@@ -30,9 +30,9 @@
 ## About Me
 Language: **Vietnamese** (Native), **English** (Conversational)
 
-Background: **Mathematics and Statistics**
+Education: **Ton Duc Thang University** (2023-2027)
 
-Education: **Ton Duc Thang University**
+Major: **Mathematics and Statistics**
 
 
 --- 
