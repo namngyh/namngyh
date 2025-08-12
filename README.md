@@ -1,7 +1,10 @@
 <!-- Title with Typing Effect -->
 <!-- Title with Typing Effect (faster) -->
+<!-- Title with Typing Effect (green, slower) -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=800&pause=800&color=FFD700&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Nam;Data+Analyst+%7C+Data+Scientist;SQL+%7C+Python+%7C+Power+BI+%7C+Looker+Studio" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=1070&pause=1000&color=32CD32&center=true&vCenter=true&width=650&lines=Hi+I'm+Nam;Data+Analyst+%7C+Data+Scientist;Python+%7C+Power+BI+%7C+Looker+Studio+%7C+SQL" alt="Typing SVG" />
+</h1>
+
 </h1>
 
 </h1>
