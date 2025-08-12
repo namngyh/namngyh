@@ -25,14 +25,19 @@ Specialized in analyzing complex datasets, building predictive models, and desig
 
 ## Technical Skills
 
-**Programming & Query Languages:** SQL, KQL, MQL, JQL, Python, HTML, CSS  
-**Data Engineering & Workflow:** Apache Spark, DBT, DLT, Apache Airflow, Dagster, Kestra, Mage, Airbyte, Fivetran, Selenium, BeautifulSoup  
-**Business Intelligence & Visualization:** Power BI, Looker Studio, Apache Superset, Metabase  
-**Databases & Data Platforms:** Oracle, SQL Server, PostgreSQL, Presto, Trino, MySQL, SingleStoreDB, Google BigQuery, MongoDB, GCP, Supabase, Azure, Snowflake, Databricks  
+**Programming & Query Languages:** SQL, Python 
+
+**Business Intelligence & Visualization:** Power BI, Looker Studio, Metabase  
+
+**Databases & Data Platforms:** Oracle, SQL Server, MySQL, Google BigQuery, Azure  
+
 **Collaboration Tools:** Jira, Confluence, Trello, Notion  
+
 **Design & Documentation:** Figma, DBDocs, Draw.io, Miro  
+
 **Productivity Tools:** Microsoft Excel, Word, PowerPoint, VBA, Google Sheets, GA4, SmartLook  
-**Others:** VS Code, PyCharm, Jupyter, Navicat, DBeaver, Visual Studio
+
+**Others:** VS Code, PyCharm, Jupyter, Visual Studio
 
 ---
 
