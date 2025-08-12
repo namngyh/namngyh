@@ -28,7 +28,7 @@
 ---
 
 ## About Me
-Data professional with expertise in transforming raw data into actionable insights that drive business growth.  
+Data professional with expertise in transforming raw data into actionable insights.  
 Specialized in analyzing complex datasets, building predictive models, and designing data solutions that support strategic decision-making.
 
 --- 
@@ -37,7 +37,6 @@ Specialized in analyzing complex datasets, building predictive models, and desig
 - Exploratory Data Analysis (EDA)
 - Statistical modeling & hypothesis testing
 - Data cleaning & transformation
-- Feature engineering
 - Predictive modeling & machine learning
 - Data visualization & storytelling
 - Dashboard design & KPI tracking
