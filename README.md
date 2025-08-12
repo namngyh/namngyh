@@ -1,6 +1,5 @@
-# 👋 Hi, I'm Hoài Nam
+![Neon Typing](https://raw.githubusercontent.com/hoainamdev/profile-assets/main/neon_typing.svg)
 
-Copywriter & Data Analyst | SQL • Python • Power BI  
 Passionate about turning data into business insights
 
 ## 🚀 My Projects
@@ -10,5 +9,4 @@ Passionate about turning data into business insights
 - [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/namngyh/))
 - Email: namngyh@gmail.com
 
-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=F76C6C&center=true&vCenter=true&width=800&lines=Hi+there+👋;I'm+Hoài+Nam;Data+Analyst+%7C+Copywriter;Turning+Data+into+Business+Insights)](https://git.io/typing-svg)
 
