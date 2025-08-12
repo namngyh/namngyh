@@ -1,8 +1,12 @@
 <!-- Title with Typing Effect -->
-<!-- Title with Typing Effect (faster) -->
-<!-- Title with Typing Effect (green, slower) -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=1070&pause=1000&color=32CD32&center=true&vCenter=true&width=650&lines=Hi+I'm+Nam;Data+Analyst+%7C+Data+Scientist;Python+%7C+Power+BI+%7C+Looker+Studio+%7C+SQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=1070&pause=1000&color=FFD700&center=true&vCenter=true&width=650&lines=Hi+I'm+Nam;Data+Analyst+%7C+Data+Scientist;Python+%7C+Power+BI+%7C+Looker+Studio+%7C+SQL" alt="Typing SVG" />
+</h1>
+
+<!-- Rainbow Line -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" alt="Rainbow Line" />
+</p>
 </h1>
 
 </h1>
@@ -43,16 +47,16 @@ Specialized in analyzing complex datasets, building predictive models, and desig
 
 ## 📫 Contact
 <p align="left">
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:namngyh@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/namngyh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/namngyh" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://github.com/namngyh/data-portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
