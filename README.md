@@ -13,7 +13,7 @@
 
 </h1>
 
-## About Me
+<h2 style="color:gold;">About Me</h2>
 Data professional with expertise in transforming raw data into actionable insights that drive business growth.  
 Specialized in analyzing complex datasets, building predictive models, and designing data solutions that support strategic decision-making.
 
