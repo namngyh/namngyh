@@ -28,8 +28,10 @@
 ---
 
 ## About Me
-Data professional with expertise in transforming raw data into actionable insights.  
-Specialized in analyzing complex datasets, building predictive models, and designing data solutions that support strategic decision-making.
+**Nguyen Hoai Nam**/2005
+Background: **Mathematics and Statistics**
+Education: **Ton Duc Thang University**
+
 
 --- 
 
