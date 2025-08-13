@@ -1,6 +1,6 @@
 <!-- Title with Typing Effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=1070&pause=1000&color=DE0000&center=true&vCenter=true&width=650&lines=Hi+I'm+Nam;Data+Analyst+%7C+Data+Scientist;Python+%7C+Power+BI+%7C+SQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=1070&pause=1000&color=38F300&center=true&vCenter=true&width=650&lines=Hi+I'm+Nam;Data+Analyst+%7C+Data+Scientist;Python+%7C+Power+BI+%7C+SQL" alt="Typing SVG" />
 </h1>
 
 <!-- Rainbow Line -->
