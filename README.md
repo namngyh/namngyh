@@ -52,15 +52,37 @@ Major: **Mathematics and Statistics**
 
 **Programming & Query Languages:** SQL, Python 
 
-**Business Intelligence & Visualization:** Power BI, Looker Studio, Metabase  
+**Business Intelligence & Visualization:** Power BI, Looker Studio, Tableution: **Ton Duc Thang University** (2023-2027)
 
-**Databases & Data Platforms:** Oracle, SQL Server, MySQL, Google BigQuery, Azure  
+Major: **Mathematics and Statistics**
+
+
+--- 
+
+## Areas 
+- Exploratory Data Analysis (EDA)
+- Statistical modeling & hypothesis testing
+- Data cleaning & transformation
+- Predictive modeling & machine learning
+- Data visualization & storytelling
+- Dashboard design & KPI tracking
+- Automation of reporting workflows
+
+---
+
+## Technical Skills
+
+**Programming & Query Languages:** SQL, Python 
+
+**Business Intelligence & Visualization:** Power BI, Looker Studio, Tableau
+
+**Databases & Data Platforms:** SQL Server, MySQL, Google BigQuery, Azure  
 
 **Collaboration Tools:** Jira, Confluence, Trello, Notion  
 
-**Design & Documentation:** Figma, DBDocs, Draw.io, Miro  
+**Design & Documentation:** Figma, DBDocs, Draw.io, Miro, Latex
 
-**Productivity Tools:** Microsoft Excel, Word, PowerPoint, VBA, Google Sheets, GA4, SmartLook  
+**Productivity Tools:** Microsoft Excel, Word, PowerPoint, Google Sheets, GA4, SmartLook  
 
 **Others:** VS Code, PyCharm, Jupyter, Visual Studio
 
