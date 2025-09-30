@@ -1,8 +1,7 @@
 <h1>WELCOME TO MY PAGE 👋👋👋</h1>
 
 <h3 style="font-weight:normal;">
-  My name is Hoai Nam Nguyen. <br>
-  My interests include Deep Learning for Computer Vision, Large Language Models, Reinforcement Learning, Mathematics, and Intelligent Automation.
+  My name is Hoai Nam Nguyen. My interests include Deep Learning for Computer Vision, Large Language Models, Reinforcement Learning, Mathematics, Intelligent Automation.
 </h3>
 
 
