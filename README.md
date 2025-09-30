@@ -29,16 +29,17 @@
 ---
 
 ## About Me
-Language
-**Vietnamese** (Native)
-**English** (Conversational)
-**Spainish** (Elementary)
+**Language**  
+- Vietnamese (Native)  
+- English (Conversational)  
+- Spanish (Elementary)  
 
-Education 
-**Ton Duc Thang University** (2023-2027)
+**Education**  
+- Ton Duc Thang University (2023–2027)  
 
-Major
-**Mathematics and Statistics**
+**Major**  
+- Mathematics and Statistics
+
 
 
 --- 
