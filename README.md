@@ -29,11 +29,16 @@
 ---
 
 ## About Me
-Language: **Vietnamese** (Native), **English** (Conversational)
+Language
+**Vietnamese** (Native)
+**English** (Conversational)
+**Spainish** (Elementary)
 
-Education: **Ton Duc Thang University** (2023-2027)
+Education 
+**Ton Duc Thang University** (2023-2027)
 
-Major: **Mathematics and Statistics**
+Major
+**Mathematics and Statistics**
 
 
 --- 
@@ -43,7 +48,7 @@ Major: **Mathematics and Statistics**
 - Statistical modeling & hypothesis testing
 - Data cleaning & transformation
 - Predictive modeling & machine learning
-- Data visualization & storytelling
+- Data visualization 
 - Dashboard design & KPI tracking
 - Automation of reporting workflows
 
