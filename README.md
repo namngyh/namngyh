@@ -37,16 +37,6 @@
 ## Areas 
 - Exploratory Data Analysis (EDA)
 - Statistical modeling & hypothesis testing
-- Data cleaning & transformation
-- Predictive modeling & machine learning
-- Data visualization, dashboard design & KPI tracking
-- Automation of reporting workflows
-
---- 
-
-## Areas 
-- Exploratory Data Analysis (EDA)
-- Statistical modeling & hypothesis testing
 - Predictive modeling & machine learning
 - Data visualization, ddashboard design & KPI tracking
 - Automation of reporting workflows
