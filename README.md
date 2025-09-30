@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:namngyh@gmail.com" target="_blank">
+  <a href="mailto:hoainam.ds.work@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/namngyh/" target="_blank">
