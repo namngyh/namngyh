@@ -25,22 +25,12 @@
   </a>
 </p>
 
-
 ---
 
 ## About Me
-**Language**  
-- Vietnamese (Native)  
-- English (Conversational)  
-- Spanish (Elementary)  
-
-**Education**  
-- Ton Duc Thang University (2023–2027)  
-
-**Major**  
-- Mathematics and Statistics
-
-
+**Languages:** Vietnamese (Native) | English (Conversational) | Spanish (Elementary)  
+**Education:** Ton Duc Thang University (2023–2027)  
+**Major:** Mathematics and Statistics
 
 --- 
 
