@@ -1,7 +1,7 @@
 <h1>WELCOME TO MY PAGE 👋👋👋</h1>
 
 <h3 style="font-weight:normal;">
-  My name is Hoai Nam Nguyen. My interests include Deep Learning for Computer Vision, Large Language Models, Reinforcement Learning, Mathematics, Intelligent Automation.
+  My name is Hoai Nam Nguyen. I am interested in the following topics: Deep Learning for Computer Vision, Large Language Models, Reinforcement Learning, Mathematics, Intelligent Automation.
 </h3>
 
 
@@ -39,8 +39,7 @@
 - Statistical modeling & hypothesis testing
 - Data cleaning & transformation
 - Predictive modeling & machine learning
-- Data visualization 
-- Dashboard design & KPI tracking
+- Data visualization, dashboard design & KPI tracking
 - Automation of reporting workflows
 
 --- 
