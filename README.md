@@ -43,33 +43,20 @@
 - Dashboard design & KPI tracking
 - Automation of reporting workflows
 
----
-
-## Technical Skills
-
-**Programming & Query Languages:** SQL, Python 
-
-**Business Intelligence & Visualization:** Power BI, Looker Studio, Tableution: **Ton Duc Thang University** (2023-2027)
-
-Major: **Mathematics and Statistics**
-
-
 --- 
 
 ## Areas 
 - Exploratory Data Analysis (EDA)
 - Statistical modeling & hypothesis testing
-- Data cleaning & transformation
 - Predictive modeling & machine learning
-- Data visualization & storytelling
-- Dashboard design & KPI tracking
+- Data visualization, ddashboard design & KPI tracking
 - Automation of reporting workflows
 
 ---
 
 ## Technical Skills
 
-**Programming & Query Languages:** SQL, Python 
+**Programming & Query Languages:** SQL, Python , R
 
 **Business Intelligence & Visualization:** Power BI, Looker Studio, Tableau
 
