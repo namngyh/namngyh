@@ -1,20 +1,16 @@
-<!-- Title with Typing Effect -->
-<h1 align="center">Welcome to my page</h1>
+<h1>WELCOME TO MY PAGE 👋👋👋</h1>
 
-<h1 align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=1070&pause=1000&color=38F300&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+Data+Scientist;Python+%7C+Power+BI+%7C+SQL" 
-    alt="Typing SVG" 
-  />
-</h1>
+<h3>
+  My name is Hoai Nam Nguyen. <br>
+  I am interested in the following topics: Deep Learning for Computer Vision, Large Language Models, Reinforcement Learning, Mathematics, Intelligent Automation, ...
+</h3>
 
 
-<!-- Rainbow Line -->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" alt="Rainbow Line" />
 </p>
 
-<!-- Contact badges centered -->
 <p align="center">
   <a href="mailto:namngyh@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
