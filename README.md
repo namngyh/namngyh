@@ -1,9 +1,9 @@
 
-# [Tên của bạn]
+# Hoai Nam Nguyen
 
-**Data Scientist | Mathematics & Statistics Background**
+**Data Scientist | Mathematics & Statistics**
 
-Chào bạn, tôi là một Data Scientist với nền tảng chuyên sâu về Toán học và Thống kê. Tôi tập trung vào việc áp dụng các mô hình định lượng và tư duy kỹ thuật phần mềm để giải quyết các bài toán dữ liệu thực tế, đặc biệt trong lĩnh vực **Fintech** và **Quantitative Analysis**.
+Hello everyone!ới nền tảng chuyên sâu về Toán học và Thống kê. Tôi tập trung vào việc áp dụng các mô hình định lượng và tư duy kỹ thuật phần mềm để giải quyết các bài toán dữ liệu thực tế, đặc biệt trong lĩnh vực **Fintech** và **Quantitative Analysis**.
 
 Hiện tại, tôi đang mở rộng kỹ năng sang mảng **MLOps** để xây dựng các quy trình máy học khép kín và hiệu quả.
 
