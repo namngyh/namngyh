@@ -3,9 +3,7 @@
 
 **Data Scientist | Mathematics & Statistics**
 
-Hello everyone! Với nền tảng chuyên sâu về Toán học và Thống kê. Tôi tập trung vào việc áp dụng các mô hình định lượng và tư duy kỹ thuật phần mềm để giải quyết các bài toán dữ liệu thực tế, đặc biệt trong lĩnh vực **Fintech** và **Quantitative Analysis**.
-
-Hiện tại, tôi đang mở rộng kỹ năng sang mảng **MLOps** để xây dựng các quy trình máy học khép kín và hiệu quả.
+Hello everyone! Với nền tảng chuyên sâu về Toán học và Thống kê. MÌnh tập trung vào việc áp dụng các mô hình định lượng và tư duy kỹ thuật phần mềm để giải quyết các bài toán dữ liệu thực tế, đặc biệt trong lĩnh vực **Fintech** và **Quantitative Analysis**.
 
 ---
 
