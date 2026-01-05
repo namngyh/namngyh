@@ -7,7 +7,7 @@ Hello everyone! Với nền tảng chuyên sâu về Toán học và Thống kê
 
 ---
 
-### 🛠 Technical Proficiency
+###  Technical Proficiency
 
 | Domain | Stack |
 | :--- | :--- |
@@ -18,12 +18,12 @@ Hello everyone! Với nền tảng chuyên sâu về Toán học và Thống kê
 
 ---
 
-### 🎓 Education
+###  Education
 * **B.S. in Mathematics & Statistics (2023-2027 | Ton Duc Thang University)** 
     * *Focus:* Probability Theory, Statistical Inference, Linear Algebra.
 
 ---
 
-### 📫 Connect
+###  Connect
 * [LinkedIn](https://www.linkedin.com/in/namngyh/)
 * [Email](mailto:namngyh@gmail.com)
