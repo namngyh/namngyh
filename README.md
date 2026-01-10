@@ -1,31 +1,38 @@
-# [TÊN CỦA BẠN]
-#### PRECISION ENGINEERED CODE.
+### <div align="center"> SYSTEM ONLINE // WELCOME, USER </div>
 
----
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="2" />
+</div>
 
-### /// DRIVER PROFILE
-**Model:** Mathematics & Statistics Major  
-**Origin:** Ton Duc Thang University (TDTU)  
-**Spec:** Specialized in Artificial Intelligence & High-Performance Data Analysis.
+<h1 align="center">I AM [TÊN CỦA BẠN]</h1>
 
-> *"There is no substitute for solid mathematics."*
+<div align="center">
+  <b>MATHEMATICS & STATISTICS UNDERGRADUATE @ TDTU</b><br>
+  <i>"Building the digital future, one algorithm at a time."</i>
+</div>
 
----
+<br>
 
-### /// PERFORMANCE SPECS
+### ⚙️ CORE SYSTEMS
+> *Initializing Machine Learning protocols...*
 
-| CLASS | SPECIFICATION |
-| :--- | :--- |
-| **Engine** | **C++ & Python** (Optimized for speed) |
-| **Transmission** | **SQL & R** (Seamless data handling) |
-| **Aerodynamics** | **Machine Learning Algorithms** (Streamlined logic) |
-| **Chassis** | **Statistical Theory** (Solid foundation) |
+* **Architect:** Designing AI models rooted in rigorous Statistical Mathematics.
+* **Vision:** Integrating advanced computation with raw data to simulate intelligence.
+* **Status:** Currently optimizing neural pathways in **Python**, **C++**, and **R**.
 
-### /// TELEMETRY (GitHub Stats)
-![Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=graywhite&hide_border=true&hide_title=true)
+### 🔋 ARC REACTOR (Tech Stack)
+<div align="center">
+  <img src="https://img.shields.io/badge/CORE-PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/UNIT-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/DATA-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MODEL-TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</div>
 
----
-<div align="right">
-  <b>DESIGNED IN VIETNAM</b><br>
-  <a href="LINK_LINKEDIN">CONNECT</a> • <a href="mailto:YOUR_EMAIL">CONTACT</a>
+### 📡 TRANSMISSION
+* **Establish Link:** [LinkedIn]
+* **Send Packet:** [Email]
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="2" />
+  <sub>POWERED BY STARK TECH // MATH-DRIVEN INTELLIGENCE</sub>
 </div>
