@@ -1,5 +1,4 @@
-# Nam Nguyen
-
+# Hoai Nam Nguyen
 > **Third-year Undergraduate, Mathematics & Statistics.**
 > *Focusing on Statistical Inference, Econometrics, and Machine Learning.*
 
