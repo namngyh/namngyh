@@ -36,10 +36,3 @@ My toolkit focuses on data manipulation, statistical modeling, and database mana
 * **Algorithms:** Improving computational efficiency using C++.
 
 ---
-
-### 4. Selected Projects
-
-* **Geo Ops Analysis** (Python/SQL): An EDA project analyzing operational metrics. Applied A/B testing methods (T-test/Chi-square) to validate business hypotheses.
-* **Econometric Modeling** (R): Implementation of OLS estimators and checking assumptions using Monte Carlo simulations.
-
----
