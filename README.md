@@ -38,6 +38,3 @@ My toolkit focuses on data manipulation, statistical modeling, and database mana
 * **Econometric Modeling** (R): Implementation of OLS estimators and checking assumptions using Monte Carlo simulations.
 
 ---
-
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=namngyh&show_icons=true&theme=graywhite&hide_border=true&count_private=true" height="130" alt="stats" />
