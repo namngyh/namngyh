@@ -9,7 +9,7 @@
 
 ---
 
-### 1. Introduction
+### 🔹 Introduction
 
 My work resides at the intersection of **Statistical Theory** and **Software Engineering**. 
 
@@ -18,7 +18,7 @@ With a rigorous academic background in Mathematics and Statistics, I focus on ap
 My objective is to leverage mathematical models to build robust, data-driven systems that are both efficient and scalable.
 
 
-### 2. Technical Proficiency
+### 🔹 Technical Proficiency
 
 My toolkit focuses on data manipulation, statistical modeling, and database management:
 
@@ -29,7 +29,7 @@ My toolkit focuses on data manipulation, statistical modeling, and database mana
 | **Database & Core** | SQL (Data Querying & Normalization), C++ (Data Structures & Algorithms) |
 | **Visualization** | Matplotlib, Seaborn, Tableau |
 
-### 3. Current Focus & Research
+### 🔹 Current Focus & Research
 
 * **Applied Statistics:** Exploring time-series analysis and stochastic processes.
 * **Game Analytics:** Developing a framework to analyze player retention and game economy balance (Project Phase 2).
