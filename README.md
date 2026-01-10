@@ -1,4 +1,14 @@
-# Hoai Nam Nguyen
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&weight=700&size=35&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hoai+Nam+Nguyen;Mathematics+%26+Statistics" alt="Typing SVG" />
+  </a>
+</h1>
+
+<p align="center">
+  <i>Third-year Undergraduate, Mathematics & Statistics.</i><br>
+  <b>Focusing on Statistical Inference, Econometrics, and Machine Learning.</b>
+</p>
+
 > **Third-year Undergraduate, Mathematics & Statistics.**
 > *Focusing on Statistical Inference, Econometrics, and Machine Learning.*
 
