@@ -1,38 +1,44 @@
-### <div align="center"> SYSTEM ONLINE // WELCOME, USER </div>
+# Nam Nguyen
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="2" />
-</div>
+> **Third-year Undergraduate, Mathematics & Statistics.**
+> *Focusing on Statistical Inference, Econometrics, and Machine Learning.*
 
-<h1 align="center">I AM [TÊN CỦA BẠN]</h1>
+---
 
-<div align="center">
-  <b>MATHEMATICS & STATISTICS UNDERGRADUATE @ TDTU</b><br>
-  <i>"Building the digital future, one algorithm at a time."</i>
-</div>
+### 1. Introduction
+
+My work resides at the intersection of **Statistical Theory** and **Software Engineering**. 
+
+With a rigorous academic background in Mathematics and Statistics, I focus on applying quantitative methods to solve complex problems in data science and system optimization. I am particularly interested in the mechanics of virtual economies and the algorithmic foundations of interactive simulations (Game Logic).
+
+My objective is to leverage mathematical models to build robust, data-driven systems that are both efficient and scalable.
+
+
+### 2. Technical Proficiency
+
+My toolkit focuses on data manipulation, statistical modeling, and database management:
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Statistical Computing** | $\textsf{R}$ (Tidyverse, ggplot2, tsibble), $\textsf{Python}$ (Pandas, SciPy, Statsmodels) |
+| **Machine Learning** | Scikit-learn, Regression Analysis (OLS, GLM), Hypothesis Testing |
+| **Database & Core** | SQL (Data Querying & Normalization), C++ (Data Structures & Algorithms) |
+| **Visualization** | Matplotlib, Seaborn, Tableau |
+
+### 3. Current Focus & Research
+
+* **Applied Statistics:** Exploring time-series analysis and stochastic processes.
+* **Game Analytics:** Developing a framework to analyze player retention and game economy balance (Project Phase 2).
+* **Algorithms:** Improving computational efficiency using C++.
+
+---
+
+### 4. Selected Projects
+
+* **Geo Ops Analysis** (Python/SQL): An EDA project analyzing operational metrics. Applied A/B testing methods (T-test/Chi-square) to validate business hypotheses.
+* **Econometric Modeling** (R): Implementation of OLS estimators and checking assumptions using Monte Carlo simulations.
+
+---
 
 <br>
-
-### ⚙️ CORE SYSTEMS
-> *Initializing Machine Learning protocols...*
-
-* **Architect:** Designing AI models rooted in rigorous Statistical Mathematics.
-* **Vision:** Integrating advanced computation with raw data to simulate intelligence.
-* **Status:** Currently optimizing neural pathways in **Python**, **C++**, and **R**.
-
-### 🔋 ARC REACTOR (Tech Stack)
-<div align="center">
-  <img src="https://img.shields.io/badge/CORE-PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/UNIT-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/DATA-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MODEL-TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</div>
-
-### 📡 TRANSMISSION
-* **Establish Link:** [LinkedIn]
-* **Send Packet:** [Email]
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="2" />
-  <sub>POWERED BY STARK TECH // MATH-DRIVEN INTELLIGENCE</sub>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=namngyh&show_icons=true&theme=graywhite&hide_border=true&count_private=true" height="130" alt="stats" />
