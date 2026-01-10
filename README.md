@@ -1,29 +1,31 @@
-
-# Hoai Nam Nguyen
-
-**Data Scientist | Mathematics & Statistics**
-
-Hello everyone! Với nền tảng chuyên sâu về Toán học và Thống kê. Mình tập trung vào việc áp dụng các mô hình định lượng và tư duy kỹ thuật phần mềm để giải quyết các bài toán dữ liệu thực tế, đặc biệt trong lĩnh vực **Fintech** và **Quantitative Analysis**.
+# [TÊN CỦA BẠN]
+#### PRECISION ENGINEERED CODE.
 
 ---
 
-###  Technical Proficiency
+### /// DRIVER PROFILE
+**Model:** Mathematics & Statistics Major  
+**Origin:** Ton Duc Thang University (TDTU)  
+**Spec:** Specialized in Artificial Intelligence & High-Performance Data Analysis.
 
-| Domain | Stack |
+> *"There is no substitute for solid mathematics."*
+
+---
+
+### /// PERFORMANCE SPECS
+
+| CLASS | SPECIFICATION |
 | :--- | :--- |
-| **Languages** | Python, R, C++, SQL |
-| **Data Science** | Pandas, NumPy, Scikit-learn, Tidyverse (R), Tsibble |
-| **Modeling** | Time-series Analysis, Linear Models (OLS/GLM), XGBoost |
-| **Engineering** | Docker, Git/GitHub, Linux Environment |
+| **Engine** | **C++ & Python** (Optimized for speed) |
+| **Transmission** | **SQL & R** (Seamless data handling) |
+| **Aerodynamics** | **Machine Learning Algorithms** (Streamlined logic) |
+| **Chassis** | **Statistical Theory** (Solid foundation) |
+
+### /// TELEMETRY (GitHub Stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=graywhite&hide_border=true&hide_title=true)
 
 ---
-
-###  Education
-* **B.S. in Mathematics & Statistics (2023-2027 | Ton Duc Thang University)** 
-    * *Focus:* Probability Theory, Statistical Inference, Linear Algebra.
-
----
-
-###  Connect
-* [LinkedIn](https://www.linkedin.com/in/namngyh/)
-* [Email](mailto:namngyh@gmail.com)
+<div align="right">
+  <b>DESIGNED IN VIETNAM</b><br>
+  <a href="LINK_LINKEDIN">CONNECT</a> • <a href="mailto:YOUR_EMAIL">CONTACT</a>
+</div>
