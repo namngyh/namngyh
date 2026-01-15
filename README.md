@@ -9,14 +9,6 @@
 
 ---
 
-### 🔹 Introduction
-
-My work resides at the intersection of **Statistical Theory** and **Software Engineering**. 
-
-With a rigorous academic background in Mathematics and Statistics, I focus on applying quantitative methods to solve complex problems in data science and system optimization. I am particularly interested in the mechanics of virtual economies and the algorithmic foundations of interactive simulations (Game Logic).
-
-My objective is to leverage mathematical models to build robust, data-driven systems that are both efficient and scalable.
-
 
 ### 🔹 Technical Proficiency
 
