@@ -4,9 +4,7 @@
   </a>
 </h1>
 
-> **Third-year Undergraduate, Mathematics & Statistics.**
-> *Focusing on Statistical Inference, Econometrics, and Machine Learning.*
-
+> **Focusing on Statistical Inference, Econometrics, and Machine Learning.**
 ---
 
 
